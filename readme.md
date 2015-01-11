@@ -1,10 +1,9 @@
-practice-on-shell
-===
+Bash
+---
 
-record my learning bash shell
+Bash is the GNU Project's shell. 
 
-
-resource
+Resource
 ---
 
 [Unix & Unix shell programming](http://www.tutorialspoint.com/unix/unix-shell.htm)
