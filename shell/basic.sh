@@ -17,5 +17,11 @@ str="I'm shell, I know your are \"$name\"! \n"
 echo $str
 
 
+#回退引号
+#  里面可以放置命令，用户与在双引号中执行
+cmd=`date`
+echo "Current date is : $cmd"
+
+
 
 
